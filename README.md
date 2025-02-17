@@ -38,7 +38,6 @@ AI-powered tool for summarizing engagement data and providing actionable insight
    git clone <repo_link>
    cd DeepSummarizer
 
-   ## **Usage**
 Run the application with Streamlit:
 
     ```bash

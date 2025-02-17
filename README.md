@@ -55,9 +55,5 @@ Example CSV columns: `Dimension`, `Mean`, `SD`.
 This project is licensed under the MIT License.
 
 ## **Contributing**
-<<<<<<< HEAD
-Feel free to contribute by opening issues or submitting pull requests. Suggestions for improving performance or adding new features are welcome.
-=======
 Feel free to contribute by opening issues or submitting pull requests. Suggestions for improving performance or adding new features are welcome.
 
->>>>>>> aa6eed0e4ff018483773befdbbbf658bad1ca943
